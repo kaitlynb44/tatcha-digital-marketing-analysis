@@ -33,5 +33,8 @@ Mini Liquid Silk Canvas Primer (86.1%)
 Mini Rice Wash Skin-Softening Cleanser (85.2%)
 Rice Wash Skin-Softening Cleanser (85.2%)
 Serum Stick: Treatment & Touch-Up Balm (84.4%)
+Skin type insights:
+Dry & combination skin → most satisfied
+Oily skin → highest negative sentiment
 
 
